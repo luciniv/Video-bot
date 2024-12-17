@@ -1,0 +1,9 @@
+# Virtual environment folder
+venv/
+
+# Environment variables file (e.g. .env containing sensitive data)
+.env
+
+# Python bytecode files
+__pycache__/
+*.pyc
